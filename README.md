@@ -30,4 +30,4 @@ Como resultado do trabalho desenvolvido, **fomos convidados para apresentar o pr
 
 ## Repositório
 
-[GitHub: Projeto ARCA](https://star1416.github.io/Projeto_Arca/)
+[GitHub: Projeto ARCA](https://rhyannenascimento.github.io/Projeto_Arca/)
